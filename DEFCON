@@ -1,0 +1,3 @@
+# ITC102_HW11
+
+The Def Con video that I watched was called “LTE Recon and Tracking with RTLSDR” presented by Ian Kline. He explained Triangulated TOA DF for position estimation.  Then he briefly talked about RTLSDR abuse. The clocks on them are pretty bad and can be thrown off by something such as a slight difference in temperature or the movement of a fan next to it. These things will break the time of arrival. He was able able to buy equipment for less than $20 to pick up ADS-B output from airplanes. His solution for solving the problem could be as simple as clock synchronization. 
